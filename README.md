@@ -3,7 +3,14 @@
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>My First Game</b>
-  - [DualingDrivers](https://github.com/JakeShapiro1/DualingDrivers/tree/main)
+  - [Dualing Drivers](https://github.com/JakeShapiro1/DualingDrivers/tree/main)
+<br>
+ 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>My First JavaScript Project</b>
+  - [Card Matcher](https://github.com/JakeShapiro1/DualingDrivers/tree/main)
+<br>
 
 <h2> Connect with me:</h2>
 
