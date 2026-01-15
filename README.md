@@ -11,11 +11,11 @@
  
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>My First JavaScript Project</b>
-  - [Card Matcher](https://github.com/JakeShapiro1/CardMatcher/tree/main)
- 
 - <b>My First Full Website</b>
   - [Audio 11](https://github.com/JakeShapiro1/Audio11HomeEntertainmentSystems/tree/main)
+
+- <b>My First JavaScript Project</b>
+  - [Card Matcher](https://github.com/JakeShapiro1/CardMatcher/tree/main)
 <br>
 
 <h2> Connect with me:</h2>
