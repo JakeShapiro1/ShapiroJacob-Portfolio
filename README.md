@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
+- <b>My Most Recent Game</b>
+  - [Rat Runner](https://github.com/JakeShapiro1/DualingDrivers/tree/main)
+
 - <b>My First Game</b>
   - [Dualing Drivers](https://github.com/JakeShapiro1/DualingDrivers/tree/main)
 <br>
@@ -12,7 +15,7 @@
   - [Card Matcher](https://github.com/JakeShapiro1/CardMatcher/tree/main)
  
 - <b>My First Full Website</b>
-  - [Audio 11](https://github.com/JakeShapiro1/CardMatcher/tree/main)
+  - [Audio 11](https://github.com/JakeShapiro1/Audio11HomeEntertainmentSystems/tree/main)
 <br>
 
 <h2> Connect with me:</h2>
