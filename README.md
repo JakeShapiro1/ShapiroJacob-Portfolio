@@ -9,7 +9,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My First JavaScript Project</b>
-  - [Card Matcher](https://github.com/JakeShapiro1/DualingDrivers/tree/main)
+  - [Card Matcher](https://github.com/JakeShapiro1/CardMatcher/tree/main)
 <br>
 
 <h2> Connect with me:</h2>
