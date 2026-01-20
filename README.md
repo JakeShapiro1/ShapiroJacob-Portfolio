@@ -3,7 +3,7 @@
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>My Internship Game</b>
-  - [Gizmo GoKartz](https://github.com/JakeShapiro1/RatRunner/tree/main)
+  - [Gizmo GoKartz](https://github.com/JakeShapiro1/GizmoGoKartz/tree/main)
 
 - <b>My Most Recent Game</b>
   - [Rat Runner](https://github.com/JakeShapiro1/RatRunner/tree/main)
